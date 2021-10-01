@@ -26,7 +26,7 @@ These exercises should be done when instructed during the course of the curricul
 1. Foundations:
   - 01-css-methods [V]
   - 02-class-id-selectors [V]
-  - 03-grouping-selectors [ ]
+  - 03-grouping-selectors [V]
   - 04-chaining-selectors [ ]
   - 05-descendant-combinator [ ]
   - 06-cascade-fix [ ]
