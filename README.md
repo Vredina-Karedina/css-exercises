@@ -39,7 +39,7 @@ These exercises should be done when instructed during the course of the curricul
   - 01-flex-center [V]
   - 02-flex-header [V]
   - 03-flex-header-2 [V]
-  - 04-flex-information [ ]
+  - 04-flex-information [V]
   - 05-flex-modal [ ]
   - 06-flex-layout [ ]
   - 07-flex-layout-2 [ ]
